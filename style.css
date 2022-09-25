@@ -4,7 +4,7 @@
 }
 .header{
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(pexels-asad-photo-maldives-3155666.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('./img/pexels-asad-photo-maldives-3155666.jpg');
     /* background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)); */
     background-size: cover;
     background-position: center;
@@ -151,7 +151,7 @@ h1{
 }
 .banner{
     height: 80vh;
-    background-image: url(/pexels-pierre-blaché-2901209.jpg);
+    background-image: url('./img/pexels-pierre-blaché-2901209.jpg');
     background-position: center;
     block-size: cover;
     background-attachment: fixed;
